@@ -24,13 +24,13 @@
 // }
 // HIJ(2, 3)
 
-class A {
-    constructor(name) {
-        this.name = name;
-    }
-    toString() {
-        console.log(`name:${this.name}`)
-    }
-}
-const B = new A('Peter')
-B.toString()
+// class A {
+//     constructor(name) {
+//         this.name = name;
+//     }
+//     toString() {
+//         console.log(`name:${this.name}`)
+//     }
+// }
+// const B = new A('Peter')
+// B.toString()
